@@ -17,7 +17,7 @@ Batch Validation Manager (BVM) is a JavaScript web application to manage the val
   * Experience with the ArcGIS API for JavaScript is helpful.
 
 ##Resources
-- [Deploy data quality services lesson](http://server.arcgis.com/en/data-reviewer/latest/help/lesson-1-deploy-data-quality-services.htm)
+- [Deploy data quality services lesson](https://enterprise.arcgis.com/en/data-reviewer/10.9.1/help/lesson-1-deploy-data-quality-services.htm)
 
 ##Issues
 Find a bug or want to request a new feature? Please let us know by submitting an issue. 
